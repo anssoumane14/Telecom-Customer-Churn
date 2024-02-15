@@ -62,7 +62,7 @@ GROUP BY Tenure_Categorization
 ORDER BY stayed_percentage DESC;
 
 
--- 6. What were the most impacted cities ?
+-- 6. Which were the cities with the most impact ?
 
 --Churned Customer
 SELECT
