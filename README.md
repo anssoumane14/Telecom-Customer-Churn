@@ -1,5 +1,5 @@
 # Telecom-Customer-Churn
-I have written two articles on Medium detailing my project, which you can find by clicking on the following links
+I have written two articles on Medium detailing my project, which you can find by clicking on the following links :
 
 Link for part 1 : https://medium.com/@anssoumane.sissokho/understanding-telecom-customer-churn-1-2-data-processing-with-python-746f0557bfbc
 
